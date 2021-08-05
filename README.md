@@ -12,6 +12,6 @@ Goals:
 
 ## Authors
 
-Kate Smith 🐶📚
-Matthew Aylward 🏌️‍♀️⛳
+Kate Smith 🐶📚⛰
+Matthew Aylward 🏌️‍♀️⛳⛰
 
