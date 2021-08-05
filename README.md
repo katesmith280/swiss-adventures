@@ -9,3 +9,9 @@ Goals:
  - A booking system so we can all plan our adventures together
  - Weather notification system so you know what climate to pack for
  - Fully fledged CI/CD pipeline
+
+## Authors
+
+Kate Smith 🐶📚
+Matthew Aylward ⛳🏌️‍♀️
+
